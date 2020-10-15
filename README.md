@@ -1,4 +1,4 @@
-## ignite.css
+![ignite.css](./logo.svg "ignite.css")
 
 **Foundational css styling to ignite your project**
 
